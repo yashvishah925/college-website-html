@@ -1,11 +1,11 @@
-College Website HTML Project
+College Website Project
 
-This is a simple college website built using pure HTML only  as part of a college assignment/project.
+This is a simple college website created using only HTML. It showcases basic web development skills and structure.
 
- Features
- Static HTML structure
-Clean and minimal design
+ Live Demo
 
+You can view the live website here:  
+[https://yashvishah925.github.io/college-website-html/](https://yashvishah925.github.io/college-website-html/)
 
-## Author
-[Yashvi Shah](https://github.com/yashvishah925)
+Feel free to explore the code and suggest improvements!
+
